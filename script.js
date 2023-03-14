@@ -1,2 +1,2 @@
 
-var yourArray = ["rahul", 26, true, "simran", 35];
+let yourArray = ["rahul", 26, true, "simran", 35];

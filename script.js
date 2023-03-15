@@ -1,2 +1,4 @@
 
-let yourArray = ["rahul", 26, true, "simran", 35];
+//your code here
+
+let yourArray = ["string", 1, false, true, 23]
